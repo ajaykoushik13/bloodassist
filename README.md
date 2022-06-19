@@ -8,4 +8,5 @@ Technologies Used 🌍
 - Firebase
 - Node JS
 
-Made for [DEV_A_THON](https://csi-fcrit-computer.github.io/DEV-A-THON/) 🚀
+Made for Website/Mobile Application Development
+National Institute of Technology (NIT), Mizoram 🚀
